@@ -9,7 +9,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        string filePath = "HK_v2.STL"; // Provide the path to your STL file
+        string filePath = "STL_examples\\HK_v2.STL"; // Provide the path to your STL file
 
         if (File.Exists(filePath))
         {
